@@ -4,7 +4,7 @@
 using namespace std;
 class Student
 {
-	string Name;
+	string name;
 	string studentId;
 	int age;
 	float gpa;
